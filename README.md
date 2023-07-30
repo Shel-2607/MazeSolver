@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.postimg.cc/gJKLSpRj/banner.png" />
+  <img src="https://www.technoxian.com/wp-content/uploads/2016/08/maze-solver.png" />
 </p>
 
 Python module/script allowing a user to control any media player using hand gestures and face tracking.
