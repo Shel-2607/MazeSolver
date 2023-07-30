@@ -1,3 +1,4 @@
+<h1>Maze Solver</h1>
 <p align="center">
   <img src="https://www.technoxian.com/wp-content/uploads/2016/08/maze-solver.png" />
 </p>
